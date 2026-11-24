@@ -1,0 +1,131 @@
+---
+title: "Mon stage d'observation de 3ème"
+subtitle: "CentraleSupélec — Rennes"
+author: "Olivier CASTAN, 3ème 3, collège JP Vernant"
+date: "2026-12-05"
+date-format: long
+lang: fr
+number-sections: true
+toc: true
+toc-title: "Sommaire"
+crossref:
+  fig-prefix: Figure
+  tbl-prefix: Tableau
+  tbl-title: Tableau
+format:
+  html:
+    theme: minty              # essaie aussi : flatly, lux, minty, sketchy, united...
+    toc-location: left
+    lightbox: true            # cliquer sur une image l'agrandit
+    embed-resources: true     # tout le site tient dans UN seul fichier .html
+  docx:
+    reference-doc: custom-reference.docx
+    toc-depth: 1
+---
+
+<!--
+  ================================================================
+  BIENVENUE !
+  Tout ton rapport s'écrit dans CE fichier.
+
+  Pour voir ton site web : clique sur le bouton "Preview" en haut
+  à droite (ou Ctrl+Maj+K). Il se met à jour à chaque sauvegarde.
+
+  Pour fabriquer le rapport Word : Ctrl+Maj+P, tape
+  "Quarto: Preview Format", puis choisis "docx".
+
+  Les blocs gris comme celui-ci sont des commentaires : ils n'apparaissent nulle part. Ce sont des conseils
+  pour toi, tu peux les supprimer au fur et à mesure.
+
+  Remplace tout ce qui est entre [crochets].
+  ================================================================
+-->
+
+::: {.callout-note title="Mon stage en bref"}
+**Stagiaire :** Olivier Castan, élève de 3ème au collège JP Vernant\
+**Lieu du stage :** CentraleSupélec, Rennes\
+**Dates :** du lundi 23/11 au vendredi 27/11/2026\
+**Tuteur :** Simon Leglaive, Enseignant chercheur
+:::
+
+# Introduction 
+<!--Présente-toi en quelques lignes : ce que tu aimes, tes matières préférées,
+ce que tu aimerais faire plus tard...
+
+Explique ensuite comment tu as trouvé ce stage, et pourquoi tu l'as choisi.
+Qu'est-ce que tu espérais découvrir ?-->
+
+## Ma recherche de stage 
+J'ai connu cette institution par relation familiale. Pour l'obtention du stage, je suis passé par l'envoi d'un mail de demande de stage.
+
+## Ce que j'attendais de ce stage
+Je souhaitais découvrir la vie dans les écoles d'ingénieurs, et découvrir le métier d'enseignant-chercheur.
+
+# Le lieu de stage
+
+## Présentation générale
+
+- **Nom :** CentraleSupélec
+- **Adresse :** 1 avenue de la Boulaie, Cesson-Sévigné
+- **Domaine d'activité :** Enseignement supérieur et recherche
+<!--
+image du campus
+-->
+
+## Les métiers et l'organisation
+### Les employés et les horaires de travail
+Nombre d'employés : 80\
+Femmes : 22\
+Hommes : 58\
+
+::: {.callout-tip title="Horaires de travail et congés"}
+Un enseigant-chercheur doit travailler environ 1600 heures par an, dont : \
+- 800 heures de recherche ; \
+- 800 heures d'enseignement, dont 25% (200 heures) face aux élèves. \
+Ils font entre 35 et 40 heures par semaine et il leur reste donc 5 à 8 semaines de congés. \
+:::
+
+### Les métiers
+#### Organigrammes
+
+![Organigramme du Campus](images/Organigramme%20-%20Campus%20de%20Rennes_page-0001.jpg){#fig-Orgcampus width=100%}
+
+![Organigramme de l'administration](images/Organigramme%20-%20Campus%20de%20Rennes_page-0002.jpg){#fig-admin width=100%}
+
+![Organigramme du laboratoire](images/Organigramme%20Laboratoires%20-%20Campus%20de%20Rennes_page-0001.jpg){#fig-labo width=100%}
+
+
+#### Les métiers et leurs activités
+
+| Métier              | Activités              |
+|---------------------|------------------------|
+| Enseignant-chercheur| Produire des connaissances et les transmettre|
+| Post-doctorant      | Produire et diffuser des connaissances  |
+| Assisstant de direction|Administrer |
+| Assisstant de scolarité |Administrer |
+: Les métiers et leurs activités {#tbl-métiers}
+
+<!--
+  Pour faire référence à une image ou un tableau, donne-lui une étiquette
+  qui commence par #fig- ou #tbl- (voir au-dessus), puis écris @fig-...
+  ou @tbl-... dans ton texte : le numéro se met tout seul. Saute une ligne entre chaque
+-->
+
+# Mon journal de bord
+
+<!--
+  Remplis un jour à la fois, idéalement le soir même : on oublie vite !
+-->
+
+## Lundi 23/11
+
+**Ce que j'ai fait :** Visite de l'amphithéâtre (voir @fig-amphi), j'ai aussi assisté à des réunions recherche.
+
+**Ce que j'ai appris :** Renaud S. m'a présenté les start up qu'il a cofondées.
+
+::: {.callout-tip title="Le mot du jour"}
+Start up : Petite entreprise naissante dans les secteurs technologiques, le but étant d'être le premier sur le marché, et au final se faire racheter la start up.
+:::
+
+![L'amphithéâtre du campus](images\Amphi.jfif){#fig-amphi width=60%}
+
