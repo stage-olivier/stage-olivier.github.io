@@ -56,10 +56,9 @@ Explique ensuite comment tu as trouvé ce stage, et pourquoi tu l'as choisi.
 Qu'est-ce que tu espérais découvrir ?-->
 
 ## Ma recherche de stage 
-J'ai connu cette institution par relation familiale. Pour l'obtention du stage, je suis passé par l'envoi d'un mail de demande de stage.
-
-## Ce que j'attendais de ce stage
-Je souhaitais découvrir la vie dans les écoles d'ingénieurs, et découvrir le métier d'enseignant-chercheur.
+J'ai connu cette institution par relation familiale. Pour l'obtention du stage, je suis passé par l'envoi d'un mail de demande de stage.\
+\
+J'attendais de ce stage de découvrir la vie dans les écoles d'ingénieurs, et découvrir le métier d'enseignant-chercheur.
 
 # Le lieu de stage
 
@@ -68,13 +67,12 @@ Je souhaitais découvrir la vie dans les écoles d'ingénieurs, et découvrir le
 - **Nom :** CentraleSupélec
 - **Adresse :** 1 avenue de la Boulaie, Cesson-Sévigné
 - **Domaine d'activité :** Enseignement supérieur et recherche
-<!--
-image du campus
--->
+
+![Photo du bâtiment](images/img-batiment.jpeg){#fig-batiment width=80%}
 
 ## Les métiers et l'organisation
 ### Les employés et les horaires de travail
-Nombre d'employés : 80\
+Nombre d'employés sur le campus : 80\
 Femmes : 22\
 Hommes : 58\
 
@@ -86,7 +84,7 @@ Ils font entre 35 et 40 heures par semaine et il leur reste donc 5 à 8 semaines
 :::
 
 ### Les métiers
-#### Organigrammes
+#### Organigrammes {.unnumbered}
 
 ![Organigramme du Campus](images/Organigramme%20-%20Campus%20de%20Rennes_page-0001.jpg){#fig-Orgcampus width=100%}
 
@@ -95,7 +93,7 @@ Ils font entre 35 et 40 heures par semaine et il leur reste donc 5 à 8 semaines
 ![Organigramme du laboratoire](images/Organigramme%20Laboratoires%20-%20Campus%20de%20Rennes_page-0001.jpg){#fig-labo width=100%}
 
 
-#### Les métiers et leurs activités
+#### Les métiers et leurs activités {.unnumbered}
 
 | Métier              | Activités              |
 |---------------------|------------------------|
