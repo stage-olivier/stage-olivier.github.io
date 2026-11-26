@@ -146,3 +146,49 @@ J'ai appris que dans les élèves de tous les campus de CentralSupélec, plus de
 - Les impacts environnementaux directs de l'intelligence artificielle sont les impacts liés au cycle de vie des équipements numériques, notamment lors de leur extraction et de leur distribution, mais aussi lors de leur utilisation, comme la haute consommation en eau des serveurs.
 - Les impacts environnementaux indirects de l'intelligence artificielle sont les impacts que l'IA a sur d'autres secteurs, sur les écosystèmes ou sur les comportements humains; ces impacts ne sont pas causés directement par cette activité mais en résultent de manière indirecte. Par exemple, si on intègre une IA dans une voiture afin qu'elle optimise les trajets pour qu'ils limitent la consommation de la voiture, cela peut amener les utilisateurs à utiliser plus souvent leur voiture car ils auront moins d'essence à payer, et donc obtenir l'effet inverse. Cependant, si les utilisateurs n'utilisent pas plus leur voiture malgré ce progrès, alors l'impact indirect sera positif pour l'environnement.
 ::: 
+
+# Les métiers que j'ai découverts
+
+<!--
+  Interroge au moins 2 personnes qui font des métiers différents
+  (chercheur·se, doctorant·e, ingénieur·e, technicien·ne, gestionnaire...).
+  Copie-colle un bloc "## Métier" pour chaque personne.
+  Demande leur accord avant de mettre leur nom ou leur photo !
+
+  Questions :
+  - Concrètement, en quoi consiste votre métier ?
+  - Quelles qualités doit-on développer pour exercer ce métier ?
+  - Combien d'heures par semaine travaillez vous en moyenne ?
+  - Quel est votre parcours scolaire initial(niveau d'arrêt des études au départ)?
+  - Avez vous du rependre un parcours de formation par la suite ?
+  - A quels postes avez vous déjà travaillé en dehors de celui ci ?
+  - Avec quels autres professionnels ou services êtes vous en relation ?
+-->
+
+## Chercheur Post-doctorant
+
+**Personne interrogée :** Louis B., chercheur post-doctorant \
+
+
+**Concrètement, en quoi consiste votre métier ?** Produire de la connaissance : développer des modèles, les valider à l'aide d'expériences; et transmettre cette connaissance en écrivant des articles et des revues.\
+
+
+**Quelles qualités doit-on développer pour exercer ce métier ?** Beaucoup de curiosité : il faut aimer apprendre, et chercher à comprendre.\
+
+
+**Combien d'heures par semaine travaillez vous en moyenne ?** Environ 40 heures par semaine.\
+
+
+**Quel est votre parcours scolaire initial(niveau d'arrêt des études au départ)?** Après le bac, j'ai fait une classe préparatoire, puis une école d'ingénieur (IMT Nord Europe), et enfin une thèse à Télécom Paris.\
+
+
+**Avez vous du rependre un parcours de formation par la suite ?** Mon travail en lui-même est une formation pérpétuelle : dans la racherche, on n'a jamais fini d'apprendre.\
+
+
+**A quels postes avez vous déjà travaillé en dehors de celui ci ?** J'ai été doctorant à Télécom Paris, de 2022 à 2025.\
+
+
+**Avec quels autres professionnels ou services êtes vous en relation ?** je suis en relation avec les services d'appui à le recherche : ils aident à l'organisation des voyages pour les conférences, etc. Je suis aussi en relation avec des chercheurs dans d'autres entreprises ou universités.\
+
+
+> « Dans la recherche, on n'a jamais fini d'apprendre; et c'est d'ailleurs ce qui nous anime : apprendre et comprendre. »
