@@ -124,8 +124,27 @@ Ils font entre 35 et 40 heures par semaine et il leur reste donc 5 à 8 semaines
 **Ce que j'ai appris :** Renaud S. m'a présenté les start up qu'il a cofondées.
 
 ::: {.callout-tip title="Le mot du jour"}
-Start up : Petite entreprise naissante dans les secteurs technologiques, le but étant d'être le premier sur le marché, et au final se faire racheter la start up.
+Start up : Petite entreprise naissante dans les secteurs technologiques, le but étant d'être le premier sur le marché, et au final se faire racheter la start up. Par exemple, Renaud S. m'a présenté une Startup appelée AIMAC, qui avait pour but de détecter des émotions à l'aide d'une image du visage,ou recréer des visages extrêmement réalistes dotés d'émotions. Cette Startup a au final été rachetée par Rockstar Games (Jeux GTA)
 :::
 
 ![L'amphithéâtre du campus](images\Amphi.jfif){#fig-amphi width=60%}
 
+
+## Mardi 24/11
+
+**Ce que j'ai fait :** Aide à la mise en place d'un atelier pour les étudiants internationaux, échange avec Tiphaine à propos d'une start up
+
+**Ce que j'ai appris :** Découverte du BrevetAI, un site de formation à l'intelligence artificielle
+
+::: {.callout-important title="Ce qui m'a surpris"}
+J'ai appris que dans les élèves de tous les campus de CentralSupélec, plus de 70 nationalités différentes sont représentées.
+:::
+
+## Mercredi 25/11
+
+**Ce que j'ai appris :** J'ai suivi une formation sur les impacts environnementaux directs et indirects de l'Intelligence artificielle, et j'ai assisté à un cours de Simon L. sur le machine learning
+
+::: {.callout-note title="Impacts environnementaux directs et indirects de l'IA"}
+- Les impacts environnementaux directs de l'intelligence artificielle sont les impacts liés au cycle de vie des équipements numériques, notamment lors de leur extraction et de leur distribution, mais aussi lors de leur utilisation, comme la haute consommation en eau des serveurs.
+- Les impacts environnementaux indirects de l'intelligence artificielle sont les impacts que l'IA a sur d'autres secteurs, sur les écosystèmes ou sur les comportements humains; ces impacts ne sont pas causés directement par cette activité mais en résultent de manière indirecte. Par exemple, si on intègre une IA dans une voiture afin qu'elle optimise les trajets pour qu'ils limitent la consommation de la voiture, cela peut amener les utilisateurs à utiliser plus souvent leur voiture car ils auront moins d'essence à payer, et donc obtenir l'effet inverse. Cependant, si les utilisateurs n'utilisent pas plus leur voiture malgré ce progrès, alors l'impact indirect sera positif pour l'environnement.
+::: 
