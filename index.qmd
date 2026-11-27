@@ -192,3 +192,40 @@ J'ai appris que dans les élèves de tous les campus de CentralSupélec, plus de
 
 
 > « Dans la recherche, on n'a jamais fini d'apprendre; et c'est d'ailleurs ce qui nous anime : apprendre et comprendre. »
+
+
+# Bilan
+
+## Ce que j'ai appris
+
+J'ai appris qu'il avait des chercheurs partout sur terre, et que la recherche est toute une communauté. De plus, les études sont les mêmes (tout le monde fait une thèse). Je me suis aussi rendu compte que même si le rythme de travail est plus intense qu'au collège, je suis moins fatigué à la fin, car j'aime ce que je fais.
+<!--Sur le monde du travail, sur la recherche, sur toi-même...-->
+
+## Les avantages et inconvénients des métiers que j'ai découverts, et les qualités nécessaires pour les exercer
+
+Pour exercer ces métiers, il faut beaucoup travailler (1600h/an et 35-40h/semaine); il faut aussi faire de longues études (doctorat), mais on est assez bien à très bien payé, et on est très libre dans nos recherches, personne ne nous dit quoi faire.
+
+::: {.callout-important title="Qualités/compétences nécessaires pour être chercheur"}
+1. Qualités
+- Autonomie
+- Persévérance
+- Curiosité
+- Ethique et intégrité (respect des droits d'auteur, etc)
+2. Compétences méthodologiques
+- Analyse de l'information (lire, comprendre des documents complexes)
+- Esprit critique (ex : évaluer la qualité d'une source)
+- Résoudre des problèmes complexes
+- Méthode sientifique (poser une hypothèse, etc)
+- Rigueur
+- Gestion de projet
+3. Compétences en communication
+- Rédaction scientifique (structurer des rapports, des articles)
+- Présentation orale (vulgariser ou défendre un travail face à différents publics)
+- Travail collaboratif (co-écriture, etc)
+:::
+
+## Ce qui m'a plu, ce qui m'a moins plu
+
+- J'ai aimé : J'avais beaucoup de libertés lors de ce stage : je pouvais choisir où je voulais aller, ce que je voulais faire. J'ai aussi aimé discuter avec des personnes exerant différents métiers, et la convivialité.
+
+- J'ai moins aimé : Lorsqu'il m'arrivait de ne pas comprendre le contenu des réunions 
